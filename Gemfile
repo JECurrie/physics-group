@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails',                   '5.1.6'
-gem 'bootstrap-sass',          '3.3.7'
+gem "bootstrap-sass", ">= 3.4.1"
 gem "actionview", ">= 5.1.6.2"
 
 gem "mini_magick", ">= 4.9.4"
