@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'rails',                   '5.1.6'
+gem 'rails',                   '5.1.3'
 gem 'bcrypt',                  '3.1.12'
 
 #gem 'wdm', '>= 0.1.0' if Gem.win_platform?
